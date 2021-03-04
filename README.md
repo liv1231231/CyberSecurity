@@ -1,3 +1,3 @@
 # CyberSecurity
 
-Feel free to learn/use my tools!
+Feel free to learn and use my tools!
